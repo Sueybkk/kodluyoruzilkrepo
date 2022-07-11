@@ -28,5 +28,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-![gorsel](images/github.png)
+![github](https://user-images.githubusercontent.com/76710062/178345709-b38b29aa-0261-4a4d-963c-26954d5acd84.png)
